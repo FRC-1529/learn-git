@@ -26,7 +26,7 @@ git branch <yourname>-02 #git branch calob-02
 git checkout <yourname>-02 #git checkout calob-02
 ```
 6. Create a folder called "yourname", then in that folder another called "exercise-02".  So the current directory should be "learn-git/<yourname>/exercise-02"
-7. In that folder, create a simple .txt file that states your name, and give a paragraph about what you want to learn with the CyberCards.
+7. In that folder, create a simple "about-me.txt" file that states your name, and give a few sentances about what you want to learn with the CyberCards.
 8. Add that file to be tracked
 ```bash
 git add <file_name> # OR git add .
